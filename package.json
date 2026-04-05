@@ -1,0 +1,19 @@
+{
+  "name": "codesnippet-manager",
+  "version": "1.0.0",
+  "description": "Full-stack Code Snippet Manager assignment project",
+  "scripts": {
+    "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "start": "concurrently \"npm run prod --prefix backend\" \"npm start --prefix frontend\"",
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "author": "OpenAI",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^6.0.3",
+    "mongo": "^0.1.0"
+  }
+}
