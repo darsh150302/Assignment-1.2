@@ -146,10 +146,12 @@ The application implements full CRUD operations:
 
 ## 🔑 Demo Credentials
 -User Login
+
   Email: darshupadhyay@gmail.com
   Password: 123
 
 - Admin Login
+  
   Email: admin@gmail.com
   Password: password
   
