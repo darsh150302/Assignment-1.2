@@ -145,8 +145,8 @@ The application implements full CRUD operations:
 - **Delete** → Remove snippets
 
 ## 🔑 Demo Credentials
--User Login
-
+- User Login 
+ 
   Email: darshupadhyay@gmail.com
   Password: 123
 
