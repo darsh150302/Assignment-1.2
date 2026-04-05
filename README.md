@@ -142,4 +142,14 @@ The application implements full CRUD operations:
 - **Create** → Add new snippets  
 - **Read** → View snippets  
 - **Update** → Edit snippets  
-- **Delete** → Remove snippets  
+- **Delete** → Remove snippets
+
+## 🔑 Demo Credentials
+-User Login
+  Email: darshupadhyay@gmail.com
+  Password: 123
+
+- Admin Login
+  Email: admin@gmail.com
+  Password: password
+  
